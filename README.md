@@ -1,4 +1,4 @@
-# Lab 31: Hooks API
+# Lab 32: Custom Hooks
 
 - Pull Request for this Lab: https://github.com/micgreene/resty/pull/2
 
