@@ -1,6 +1,6 @@
 # Lab 31: Hooks API
 
-- Pull Request for this Lab: https://github.com/micgreene/resty/pull/2
+- Pull Request for this Lab: https://github.com/micgreene/todo-/pull/1
 
 Codefellows 401 JavaScript
 
