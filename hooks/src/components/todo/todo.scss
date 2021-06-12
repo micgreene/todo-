@@ -4,16 +4,20 @@ body, html {
   padding:0;
   width: 100%;
 }
+
+header {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  padding:.5em 1em;
+  background: #0059ff;
+}
+
 .todo-details {
   display:flex;
   flex-direction:column;
 
-  header {
-      display:flex;
-      flex-direction:row;
-      justify-content:space-between;
-      padding:.5em 1em;
-  }
+  
 
   .item {
       flex:1;
@@ -28,6 +32,8 @@ body, html {
   flex-direction:row;
   justify-content: flex-start;
   margin: 2em;
+  padding: 2em;
+  border: 2px solid black;
 
   form {
 
@@ -57,19 +63,19 @@ body, html {
 
           &.complete-true {
             span {
-              background: pink;
+              background: seagreen;
               text-decoration:line-through;
               &:hover {
-                 background: seagreen;
+                 background: #e0e0e0;
               }
             }
           }
 
           span {
-              background: #e0e0e0;
+              background: pink;
               cursor:pointer;
               &:hover {
-                  background: pink;
+                  background: #e0e0e0;
               }
           }
            span, input {
