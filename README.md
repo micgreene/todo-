@@ -1,6 +1,6 @@
-# Lab 34: `<Login />` and `<Auth />`
+# Lab 33: Context API
 
-- Pull Request for this Lab: https://github.com/micgreene/todo-/pull/1
+- Pull Request for this Lab: https://github.com/micgreene/todo-/pull/4
 
 Codefellows 401 JavaScript
 
@@ -90,6 +90,11 @@ Codefellows 401 JavaScript
 ### Links and Resources
 
 - local server: http://localhost:3000/
+- Note: The deployed API server has the following user accounts (username:password) that you can use to login as a user with varying permissions
+
+  - admin:ADMIN (create, read, update, delete)
+  - editor:EDITOR (create, read, update)
+  - user:USER (read)
 
 #### `.env` requirements (where applicable)
 
