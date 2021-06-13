@@ -1,6 +1,6 @@
 # Lab 34: `<Login />` and `<Auth />`
 
-- https://github.com/micgreene/todo-/pull/2
+- Pull Request for this Lab: https://github.com/micgreene/todo-/pull/2
 
 Codefellows 401 JavaScript
 
