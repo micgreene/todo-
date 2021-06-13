@@ -1,12 +1,12 @@
-# Lab 34: `<Login />` and `<Auth />`
+# Lab 32: Custom Hooks
 
-- Pull Request for this Lab: https://github.com/micgreene/todo-/pull/2
+- Pull Request for this Lab: https://github.com/micgreene/resty/pull/3
 
 Codefellows 401 JavaScript
 
 ## Overview
 
-- React App: Upgrading functionality of working React App to Conditional Rendering Using Authentication
+- React App: Upgrading functionality of working React App to Functional Components from Class Components
 
 - **Business Requirements**
 
@@ -98,8 +98,9 @@ Codefellows 401 JavaScript
 
 #### `.env` requirements (where applicable)
 
-- REACT_APP_API=https://api-js401.herokuapp.com
-- REACT_APP_API_SECRET=***********
+REACT_APP_API=https://api-js401.herokuapp.com
+
+REACT_APP_API_SECRET=***********
 
 ### UML
 
